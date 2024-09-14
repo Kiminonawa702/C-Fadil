@@ -1,6 +1,6 @@
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kiminonawa702/C-Fadil.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kiminonawa702/C-Fadil)
 
 ___
 <h1 align="center">Auto Read Story WhatsApp</h1>
